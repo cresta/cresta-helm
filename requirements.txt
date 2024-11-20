@@ -148,7 +148,7 @@ mypy==1.5.1
 mypy-extensions==1.0.0
 nest-asyncio==1.6.0
 networkx==3.0
-nltk==3.8.1
+nltk==3.9
 nodeenv==1.8.0
 NudeNet==2.0.9
 numba==0.56.4
